@@ -42,7 +42,7 @@ entries:
     maintainers:
     - name: Red Hat
       url: https://redhat.com
-    name: developer-hub
+    name: developer-hub1.0-189
     type: application
     urls:
     - https://raw.githubusercontent.com/rhdh-bot/openshift-helm-charts/developer-hub-1.0-189-CI/charts/redhat/redhat/developer-hub/1.0-189-CI/developer-hub-1.0-189-CI.tgz
